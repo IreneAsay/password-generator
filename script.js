@@ -11,7 +11,7 @@ function writePassword() {
 }
 
 function generatePassword(){
-  return
+  return "This will be replaced by my generated passward."
 }
 
 // Add event listener to generate button
