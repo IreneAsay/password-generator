@@ -25,7 +25,7 @@ function generatePassword(){
   var chooseSpecial = confirm("Would you like special characters?");
 
   if (!chooseLower && !chooseUpper && !chooseNumber && !chooseSpecial){
-    alert("Please reselect your criteria and include at least one character type!");
+    alert("Please reselect your criteria by generating the password again to include at least one character type!");
     return false;
   }
 
