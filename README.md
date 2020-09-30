@@ -5,9 +5,6 @@
 This is an application that an employee can use to generate a random password based on the criteria they have selected. This application will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code. 
 
 ![Screenshot 1](assets/PG_1.png)
-![Screenshot 8](assets/PG_8.png)
-![Screenshot 9](assets/PG_9.png)
-
 
 ## How to achieve my goal?
 
